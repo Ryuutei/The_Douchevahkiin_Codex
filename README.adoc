@@ -5,7 +5,7 @@ This is the Douchevahkiin table of content repository, in french & english.
 
 Please visit the official website:
 
-* http://thedouchevahkiin.canalblog.com[The Douchevahkiin] （english version）
+* http://thedouchevahkiin.canalblog.com[The Douchevahkiin] （English version）
 * http://frdouchevahkiin.canalblog.com[Douchevahkiin] （Version française）
 
-the hosted currently hosted page is at http://ryuutei.github.io/The_Douchevahkiin_Codex/codex.html
+the currently hosted page is at http://ryuutei.github.io/The_Douchevahkiin_Codex/codex.html
