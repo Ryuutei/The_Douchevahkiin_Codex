@@ -1,4 +1,11 @@
 // -*- coding: utf-8 -*-
 = The Douchevahkiin Codex
 
-This is the Douchevahkiin table of content, in french & english.
+This is the Douchevahkiin table of content repository, in french & english.
+
+Please visit the official website:
+
+* http://thedouchevahkiin.canalblog.com[The Douchevahkiin] （english version）
+* http://frdouchevahkiin.canalblog.com[Douchevahkiin] （Version française）
+
+the hosted currently hosted page is at http://ryuutei.github.io/The_Douchevahkiin_Codex/codex.html
